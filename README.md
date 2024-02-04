@@ -7,5 +7,3 @@ This repository can be used to ship Xiaomi's MiuiCamera app ported from the Mi A
 
 ## Currently supported devices:
 * Redmi Note 8 (ginkgo)
-* Redmi Note 8T (willow)
-* Xiaomi Mi A3 (laurel_sprout)
